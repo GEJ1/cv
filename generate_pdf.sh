@@ -1,9 +1,19 @@
 #!/bin/bash
 
-# Generar PDF clásico del CV con Pandoc (LaTeX format)
+echo "🔄 Generando CVs en progreso..."
+
+# Generar PDF clásico del CV con Pandoc (Español)
 pandoc src/CV_Gustavo_Juantorena_2026.md \
     -H assets/disable_hyphens.tex \
     -V geometry:margin=1in \
-    -o output/CV_Gustavo_Juantorena_2026.pdf
+    -o output/CV_Gustavo_Juantorena_2026_ES.pdf
 
-echo "✅ PDF clásico generado exitosamente en la carpeta 'output/': output/CV_Gustavo_Juantorena_2026.pdf"
+# Generar PDF clásico del CV con Pandoc (Inglés)
+pandoc src/english/CV_Gustavo_Juantorena_2026_EN.md \
+    -H assets/disable_hyphens.tex \
+    -V geometry:margin=1in \
+    -o output/CV_Gustavo_Juantorena_2026_EN.pdf
+
+echo "✅ PDFs generados exitosamente en la carpeta 'output/':"
+echo "  - output/CV_Gustavo_Juantorena_2026_ES.pdf"
+echo "  - output/CV_Gustavo_Juantorena_2026_EN.pdf"

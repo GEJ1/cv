@@ -54,3 +54,15 @@ To generate both the Markdown updates and compile the new PDFs, simply execute t
 This command will:
 1. Run `build_cv.py` to rewrite the `.md` files based on the latest `cv_data.yaml`.
 2. Execute Pandoc to convert the newly built Markdown files into high-quality PDFs placed in the `output/` directory.
+
+## Automated CI/CD (GitHub Actions)
+
+This repository includes a GitHub Actions workflow (`.github/workflows/generate_cv.yml`) that completely automates CV generation.
+
+Whenever a push is made to the `main` branch containing changes to `src/cv_data.yaml` (or the generation scripts), GitHub Actions will automatically:
+1. Setup a Python environment and install the required dependencies (`pyyaml`, `jinja2`).
+2. Install Pandoc and LaTeX essentials.
+3. Execute `./generate_pdf.sh` to build fresh Markdown files and PDFs.
+4. Auto-commit and push the newly generated files back to the repository.
+
+You simply edit the data, push your commit, and let GitHub handle the rest!

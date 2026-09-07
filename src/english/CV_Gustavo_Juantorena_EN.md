@@ -107,9 +107,9 @@ Interdisciplinary Data Scientist and Neuroscientist, currently in the final stag
 
 *   **Francisco Figari:** *Applicability of remote web eye-tracking to neuropsychological diagnosis* (Defended 2022).
 
-*   **Agustín Penas:** *Automatic detection of eye-tracking events* (In progress).
+*   **Agustín Penas:** *Automatic detection of eye-tracking events* (Defended 2026).
 
-*   **Gianluca Capelo:** *Prediction of individual differences in executive functions using ML* (In progress).
+*   **Gianluca Capelo:** *Prediction of individual differences in executive functions using ML* (Defended 2026).
 
 
 ---

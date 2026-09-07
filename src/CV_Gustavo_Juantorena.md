@@ -107,9 +107,9 @@ Data Scientist y Neurocientífico con enfoque interdisciplinario, cursando la et
 
 *   **Francisco Figari:** *Aplicabilidad de eye-tracking web remoto al diagnóstico neuropsicológico* (defendida 2022).
 
-*   **Agustín Penas:** *Detección automática de eventos de eye-tracking* (en proceso).
+*   **Agustín Penas:** *Detección automática de eventos de eye-tracking* (defendida 2026).
 
-*   **Gianluca Capelo:** *Predicción de diferencias individuales en funciones ejecutivas mediante ML* (en proceso).
+*   **Gianluca Capelo:** *Predicción de diferencias individuales en funciones ejecutivas mediante ML* (defendida 2026).
 
 
 ---

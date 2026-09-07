@@ -12,6 +12,12 @@ on:
       - '.github/workflows/generate_cv.yml'
   workflow_dispatch:
 
+# Only one CV build at a time: a newer push cancels the in-flight run so it
+# cannot push a stale regeneration on top of the newer commit.
+concurrency:
+  group: generate-cv-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build_cv:
     runs-on: ubuntu-latest

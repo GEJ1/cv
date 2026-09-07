@@ -119,7 +119,7 @@ Interdisciplinary Data Scientist and Neuroscientist, currently in the final stag
 *(For the complete list of papers and posters refer to Google Scholar)*
 
 
-1.  **Juantorena, G. E.**, Capelo, G., Leon Vallejos, B. D., Ibáñez, A., Petroni, A., Berrios, W., Fernández, M. C., & Kamienkowski, J. E. (2026). *Machine learning based digital assessment of mild cognitive impairment using mouse trajectories during the Trail Making Test.* In **Scientific Reports (Nature)**.
+1.  **Juantorena, G. E.**, Capelo, G., Leon Vallejos, B. D., Ibáñez, A., Petroni, A., Berrios, W., Fernández, M. C., & Kamienkowski, J. E. (2026). *Machine learning based digital assessment of mild cognitive impairment using mouse trajectories during the Trail Making Test.* In **Scientific Reports (Nature)**. [https://doi.org/10.1038/s41598-026-62955-9](https://doi.org/10.1038/s41598-026-62955-9)
 
 2.  Verón, G. L., **Juantorena, G. E.**, Keller, G., Crivelli, L., & Kamienkowski, J. E. (2026). *Eye tracking as a diagnostic tool in Alzheimer's disease, mild cognitive impairment, and related dementias: a systematic review.* In **Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring**, 18(1), e70238.
 

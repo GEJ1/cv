@@ -119,11 +119,11 @@ Data Scientist y Neurocientífico con enfoque interdisciplinario, cursando la et
 *(Para la lista completa de papers y pósters referirse a Google Scholar)*
 
 
-1.  Verón, G. L., **Juantorena, G. E.**, Keller, G., Crivelli, L., & Kamienkowski, J. E. (2026). *Eye tracking as a diagnostic tool in Alzheimer's disease, mild cognitive impairment, and related dementias: a systematic review.* **Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring**, 18(1), e70238.
+1.  **Juantorena, G. E.**, Capelo, G., Leon Vallejos, B. D., Ibáñez, A., Petroni, A., Berrios, W., Fernández, M. C., & Kamienkowski, J. E. (2026). *Machine learning based digital assessment of mild cognitive impairment using mouse trajectories during the Trail Making Test.* **Scientific Reports (Nature)**.
 
-2.  **Juantorena, G. E.**, Capelo, G., Leon Vallejos, B. D., Ibáñez, A., Petroni, A., Berrios, W., Fernández, M. C., & Kamienkowski, J. E. (2026). *Machine Learning Based Digital Assessment of Mild Cognitive Impairment Using Hand Movements during the Trail Making Test.* **medRxiv**.
+2.  Verón, G. L., **Juantorena, G. E.**, Keller, G., Crivelli, L., & Kamienkowski, J. E. (2026). *Eye tracking as a diagnostic tool in Alzheimer's disease, mild cognitive impairment, and related dementias: a systematic review.* **Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring**, 18(1), e70238.
 
-3.  Belloli, L., Keller, G., Carello, A., Gauder, L., **Juantorena, G. E.**, Corvalan, N., Allegri, R. F., Crivelli, L., & Fernández Slezak, D. (2025). *Multi-modal AI screening for MCI and Alzheimer's Disease: results from an Argentine Cohort.* **Alzheimer's & Dementia**.
+3.  Belloli, L., Keller, G., Carello, A., Gauder, L., **Juantorena, G. E.**, Corvalan, N., Allegri, R. F., Crivelli, L., & Fernández Slezak, D. (2024). *Multi-modal AI screening for MCI and Alzheimer's Disease: results from an Argentine Cohort.* **Alzheimer's & Dementia**, 20(S2), e087333.
 
 4.  **Juantorena, G. E.**, Gauder, L., Laciana, P., Ferrer, L., & Kamienkowski, J. E. (2025). *DataPruebas: An Online Platform for Data Collection.* **Simposio Argentino de Inteligencia Artificial y Ciencia de Datos (ASAID 2025)-JAIIO 54**.
 
@@ -143,7 +143,7 @@ Data Scientist y Neurocientífico con enfoque interdisciplinario, cursando la et
 
 *   **Data Science & Machine Learning:** Scikit-Learn, Pandas, NumPy, Análisis Exploratorio de Datos (EDA), Modelado Estadístico.
 
-*   **Deep Learning & NLP:** Pytorch, LLMs.
+*   **IA, LLMs y Agentes:** PyTorch, Transformers, aplicaciones con LLMs (prompting, RAG), desarrollo de agentes (tool use, orquestación).
 
 *   **Ingeniería y Análisis de Datos:** Web Scraping (BeautifulSoup, automatización), APIs, preprocesamiento de grandes volúmenes de datos.
 

@@ -43,6 +43,19 @@
 *   {{ mentor[lang] }}
 {% endfor %}
 
+{{ education.jury_header[lang] }}
+
+{% for thesis in education.jury %}
+*   {{ thesis[lang] }}
+{% endfor %}
+{% if education.other_activities is defined %}
+{{ education.other_activities_header[lang] }}
+
+{% for act in education.other_activities %}
+*   {{ act[lang] }}
+{% endfor %}
+{% endif %}
+
 ---
 
 ## {{ headers.publications[lang] }}

@@ -112,6 +112,23 @@ Interdisciplinary Data Scientist and Neuroscientist, currently in the final stag
 *   **Gianluca Capelo:** *Prediction of individual differences in executive functions using ML* (Defended 2026).
 
 
+**Thesis Committee Member (Jury):**
+
+
+*   **Nicolás Kossacoff:** *Sequential Models for Fraud Prevention* (M.Sc. in Data Science, Universidad de San Andrés, 2026).
+
+*   **Sebastián Cantini Budden:** *Language processing during reading and the impact of fatigue* (B.S. in Computer Science, UBA, 2025).
+
+*   **Sofía Milena Goldberg:** *Application of BERT embeddings for automatic detection of Alzheimer's disease* (B.S. in Computer Science, UBA, 2025).
+
+
+**Other Academic Activities:**
+
+
+*   **Poster session judge**, *Second South American NLP School: Natural Language Processing and AI in South America* (Ciudad Universitaria, Buenos Aires, Argentina, August 2026).
+
+
+
 ---
 
 ## Selected Scientific Production

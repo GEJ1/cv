@@ -182,6 +182,26 @@ education:
     - en: "**Gianluca Capelo:** *Prediction of individual differences in executive functions using ML* (Defended 2026)."
       es: "**Gianluca Capelo:** *Predicción de diferencias individuales en funciones ejecutivas mediante ML* (defendida 2026)."
 
+  jury_header:
+    en: "**Thesis Committee Member (Jury):**"
+    es: "**Jurado de Tesis:**"
+
+  jury:
+    - en: "**Nicolás Kossacoff:** *Sequential Models for Fraud Prevention* (M.Sc. in Data Science, Universidad de San Andrés, 2026)."
+      es: "**Nicolás Kossacoff:** *Modelos secuenciales en prevención de fraude* (Maestría en Ciencia de Datos, Universidad de San Andrés, 2026)."
+    - en: "**Sebastián Cantini Budden:** *Language processing during reading and the impact of fatigue* (B.S. in Computer Science, UBA, 2025)."
+      es: "**Sebastián Cantini Budden:** *Procesamiento del lenguaje durante la lectura y los impactos de la fatiga* (Licenciatura en Ciencias de la Computación, UBA, 2025)."
+    - en: "**Sofía Milena Goldberg:** *Application of BERT embeddings for automatic detection of Alzheimer's disease* (B.S. in Computer Science, UBA, 2025)."
+      es: "**Sofía Milena Goldberg:** *Aplicación de embeddings de BERT para detección automática de Alzheimer* (Licenciatura en Ciencias de la Computación, UBA, 2025)."
+
+  other_activities_header:
+    en: "**Other Academic Activities:**"
+    es: "**Otras Actividades Académicas:**"
+
+  other_activities:
+    - en: "**Poster session judge**, *Second South American NLP School: Natural Language Processing and AI in South America* (Ciudad Universitaria, Buenos Aires, Argentina, August 2026)."
+      es: "**Jurado de la sesión de pósters**, *Second South American NLP School: Natural Language Processing and AI in South America* (Ciudad Universitaria, Buenos Aires, Argentina, agosto de 2026)."
+
 publications_header:
   en: "*(For the complete list of papers and posters refer to Google Scholar)*"
   es: "*(Para la lista completa de papers y pósters referirse a Google Scholar)*"

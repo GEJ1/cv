@@ -112,6 +112,23 @@ Data Scientist y Neurocientífico con enfoque interdisciplinario, cursando la et
 *   **Gianluca Capelo:** *Predicción de diferencias individuales en funciones ejecutivas mediante ML* (defendida 2026).
 
 
+**Jurado de Tesis:**
+
+
+*   **Nicolás Kossacoff:** *Modelos secuenciales en prevención de fraude* (Maestría en Ciencia de Datos, Universidad de San Andrés, 2026).
+
+*   **Sebastián Cantini Budden:** *Procesamiento del lenguaje durante la lectura y los impactos de la fatiga* (Licenciatura en Ciencias de la Computación, UBA, 2025).
+
+*   **Sofía Milena Goldberg:** *Aplicación de embeddings de BERT para detección automática de Alzheimer* (Licenciatura en Ciencias de la Computación, UBA, 2025).
+
+
+**Otras Actividades Académicas:**
+
+
+*   **Jurado de la sesión de pósters**, *Second South American NLP School: Natural Language Processing and AI in South America* (Ciudad Universitaria, Buenos Aires, Argentina, agosto de 2026).
+
+
+
 ---
 
 ## Producción Científica Seleccionada
